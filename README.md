@@ -10,28 +10,6 @@
 * **Customization:** Adjust stroke color and brush size for your drawings.
 * **Export:** Download your creations (e.g., as an image file).
 
-## Getting Started
-
-To run VividBoard locally:
-
-1.  **Clone this repository:**
-    \`\`\`bash
-    git clone https://github.com/${GITHUB_USERNAME}/${REPO_NAME}.git
-    cd ${REPO_NAME}
-    \`\`\`
-2.  **Install dependencies:**
-    \`\`\`bash
-    npm install
-    # or
-    yarn install
-    \`\`\`
-3.  **Start the development server:**
-    \`\`\`bash
-    npm start
-    # or
-    yarn start
-    \`\`\`
-    This will typically open the application in your browser at \`http://localhost:3000\`.
 
 ## Technologies Used
 
